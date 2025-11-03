@@ -1,0 +1,15 @@
+sensor_id,reading
+sensor1,23
+sensor1,25
+sensor1,22
+sensor2,26
+sensor2,error
+sensor2,28
+sensor3,27
+sensor3,25
+sensor3,None
+sensor3,23
+sensor4,30
+sensor4,31
+sensor4,29
+sensor4,error
